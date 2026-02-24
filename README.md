@@ -32,10 +32,16 @@ Criar uma solução estruturada para:
 
 ---
 
+## 📈 Pagina Inicial do Relatório
+- Campos interativos que te levam a aba desejada
+
+![Pagina inicial](Imagens/paginaInicial.PNG)
+
+---
+
 ## 📈 Dashboard Financeiro Anual
 
-![Dashboard Anual](imagens/dashboard_anual.png)
-
+![Dashboard Anual](Imagens/posiçãoAnual.PNG)
 ---
 
 ## 🧠 Conceitos Aplicados
@@ -62,7 +68,7 @@ Criar uma solução estruturada para:
 
 ## 📥 Download do Arquivo
 
-[Baixar Projeto Excel](Fluxo_de_Caixa_Empresarial.xlsx)
+[Baixar Projeto Excel](Arquivo/fluxo_de_caixa_empresarial.xlsx)
 
 ---
 
